@@ -1,1 +1,1 @@
-# pet-scout-api
+# pet-scout
